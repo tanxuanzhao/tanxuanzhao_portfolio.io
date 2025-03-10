@@ -12,7 +12,7 @@ The original Model uses MTCNN which has been modified to make it easier for me t
 &nbsp; |  &nbsp;
 [Best Modfied Facial Recognition Model](https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach/blob/main/MTCNN%20-%20%20leaky%20relu%20-%20%200.6%20-%20for%20video.ipynb)
 &nbsp; |  &nbsp;
-[Github repository for original and modifed Models](https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach")
+[Github repository for original and modifed Models](https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach)
 &nbsp; |  &nbsp;
 [Short video for my code](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)
 &nbsp; |  &nbsp;
