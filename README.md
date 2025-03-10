@@ -18,5 +18,5 @@ The original Model uses MTCNN which has been modified to make it easier for me t
 &nbsp; |  &nbsp;
 [Powerpoint Presenation](https://docs.google.com/presentation/d/13cZEBs54p584JNJFbSXzUMmtzN7LyOi7/edit?pli=1#slide=id.p1) 
 
-Code uses: OpenCV, Matplotlib, Pandas, NumPy, Python Imaging Library, TensorFlow, Keras, Scikit-learn
-\Tags: Artificial Intelligence (AI), Machine Learning
+Code uses: OpenCV, Matplotlib, Pandas, NumPy, Python Imaging Library, TensorFlow, Keras, Scikit-learn\
+Tags: Artificial Intelligence (AI), Machine Learning
