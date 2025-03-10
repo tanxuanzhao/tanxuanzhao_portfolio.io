@@ -1,2 +1,6 @@
 name: ""
 title: null
+
+
+plugins:
+  - jekyll-seo-tag
