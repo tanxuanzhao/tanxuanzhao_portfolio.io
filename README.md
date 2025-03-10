@@ -1,6 +1,6 @@
-# Tan Xuan Zhao’s Artifical Intelligence (AI), Data Science and Machine Learning portfoilo
+# Tan Xuan Zhao’s Artifical Intelligence (AI), Data Science and Machine Learning Portfoilo
 
-Hi, I am Xuan Zhao and this is my Artifical Intelligence (AI), Data Science and Machine Learning portfoilo.
+Hi, I am Xuan Zhao and this is my Artifical Intelligence (AI), Data Science and Machine Learning Portfoilo.
 
 ## Facial Recognition - A Deep Learning Approach
 Research related to improving facial recognition models
