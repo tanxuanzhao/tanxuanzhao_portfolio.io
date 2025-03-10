@@ -4,4 +4,4 @@
 testing 1 2 3
 
  <link rel="shortcut icon" type="image/png" 
-      href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+      href="{{ "/assets/images/favicon.PNG"  | [absolute_url](https://github.com/tanxuanzhao/xuanzhao_portfolio.io/blob/main/favico.PNG) }}">
