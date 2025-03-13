@@ -18,4 +18,4 @@ The original Model uses MTCNN which has been modified to make it easier for me t
 [Short video for my code](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)
 
 Code uses: OpenCV, Matplotlib, Pandas, NumPy, Python Imaging Library, TensorFlow, Keras, Scikit-learn\
-Tags: Artificial Intelligence (AI), Machine Learning
+Tags: Artificial Intelligence (AI), Machine Learning, Computer Vision
