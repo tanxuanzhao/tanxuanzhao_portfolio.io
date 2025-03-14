@@ -16,6 +16,8 @@ The original Model uses MTCNN which has been modified to make it easier for me t
 [Github repository for original and modifed Models](https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach)
 &nbsp; |  &nbsp;
 [Short video for my code](https://drive.google.com/file/d/1iL_Tz7jcMc8F2qI8sTtF8x0PVAxVNYV-/view)
+&nbsp; |  &nbsp;
+[Testing results collated on an Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VRlNWW4ECAq2A-0j24l10WNPhOHGx97E/edit?pli=1&gid=434247271#gid=434247271)
 
 Code uses: OpenCV, Matplotlib, Pandas, NumPy, Python Imaging Library, TensorFlow, Keras, Scikit-learn\
 Tags: Artificial Intelligence (AI), Machine Learning, Computer Vision
