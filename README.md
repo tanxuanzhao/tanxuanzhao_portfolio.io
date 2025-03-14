@@ -3,7 +3,7 @@
 
 Hi, I am Xuan Zhao and this is my Artifical Intelligence (AI), Data Science and Machine Learning Portfoilo.
 
-## Facial Recognition - A Deep Learning Approach(https://github.com/tanxuanzhao/Facial-Recognition-A-Deep-Learning-Approach)
+## Facial Recognition - A Deep Learning Approach
 Research related to improving facial recognition models
 
 Final Year (Capstone) Project, University Of Wollongong, October 2023 – March 2024
