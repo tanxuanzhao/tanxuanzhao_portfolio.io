@@ -1,4 +1,4 @@
-# Tan Xuan Zhao’s Artifical Intelligence (AI), Data Science and Machine Learning Portfoilo
+# Tan Xuan Zhao’s Artifical Intelligence (AI), Data Science & Machine Learning Portfoilo
 [Tan Xuan Zhao's Github page](https://github.com/tanxuanzhao) &nbsp; |  &nbsp; [Tan Xuan Zhao's Github Repositories](https://github.com/tanxuanzhao?tab=repositories)
 
 Hi, I am Xuan Zhao and this is my Artifical Intelligence (AI), Data Science and Machine Learning Portfoilo.
